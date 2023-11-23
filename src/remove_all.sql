@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS checks, friends, p2p, peers, recommendations, tasks, timetracking, transferredpoints, verter, xp CASCADE

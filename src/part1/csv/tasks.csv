@@ -1,0 +1,12 @@
+C3_SimpleBashUtils,,350
+C2_s21_stringplus,C3_SimpleBashUtils,750
+C5_s21_decimal,C3_SimpleBashUtils,350
+C6_s21_matrix,C5_s21_decimal,200
+C7_SmartCalc_v1.0,C6_s21_matrix,650
+C8_3DViewer_v1.0,C7_SmartCalc_v1.0,1050
+CPP1_s21_matrixplus,C8_3DViewer_v1.0,300
+CPP2_s21_containers,CPP1_s21_matrixplus,450
+CPP3_SmartCalc_v2.0,CPP2_s21_containers,700
+CPP4_3DViewer_v2.0,CPP3_SmartCalc_v2.0,850
+A1_Maze,CPP4_3DViewer_v2.0,400
+A2_SimpleNavigator_v1.0,A1_Maze,500
